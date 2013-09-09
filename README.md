@@ -1,7 +1,8 @@
-Apple
-=====
+## Apple / iCloud Email Change
 
-Two e-mail addresses: the "old", and the "new".
+Instructions for updating your email address as your Apple ID and in iCloud. An accompaniment for @konklone's guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
+
+Originall written by @ndarville.
 
 ## Change Your Apple ID E-Mail
 
