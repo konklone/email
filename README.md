@@ -1,8 +1,8 @@
 ## Apple / iCloud Email Change
 
-Instructions for updating your email address as your Apple ID and in iCloud. An accompaniment for @konklone's guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
+Instructions for updating your email address as your Apple ID and in iCloud. An accompaniment for [@konklone](/konklone)'s guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
 
-Originall written by @ndarville.
+Originall written by [@ndarville](/ndarville).
 
 ## Change Your Apple ID E-Mail
 
