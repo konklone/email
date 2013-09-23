@@ -4,4 +4,4 @@ Originally collected as an accompaniment for [@konklone](/konklone)'s guide to [
 
 ### Articles
 
-* [Update Your Email Address in Apple and iCloud](icloud).
+* [Update Your Email Address in Apple and iCloud](icloud#update-your-email-address-in-apple-and-icloud).
