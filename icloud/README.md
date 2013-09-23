@@ -10,15 +10,15 @@ Originall written by [@ndarville](/ndarville).
 
 2. Go to "Manage your Apple ID".
 
-    ![Website](icloud/screenshots/1-apple-id/1-website.png)
+    ![Website](screenshots/1-apple-id/1-website.png)
 
 3. Log in with your old e-mail.
 
-    ![Log-in](icloud/screenshots/1-apple-id/2-login.png)
+    ![Log-in](screenshots/1-apple-id/2-login.png)
 
 4. Click "Edit" under the heading "Apple ID and Primary Email Address" and enter the new e-mail address.
 
-    ![E-mail](icloud/screenshots/1-apple-id/3-email.png)
+    ![E-mail](screenshots/1-apple-id/3-email.png)
 
 5. (Jump through the hoops of confirming the change. Can't remember what this entails; I think it's just a matter of clicking a confirmation e-mail.)
 
@@ -30,7 +30,7 @@ Originall written by [@ndarville](/ndarville).
 
 In iTunes for Mac OS X or Windows, just navigate to an iTunes Store pane where you can log out. Then, log in with your new e-mail address.
 
-![Sign out](icloud/screenshots/2-itunes-mac-windows/signout.png)
+![Sign out](screenshots/2-itunes-mac-windows/signout.png)
 
 ### iOS
 
@@ -38,11 +38,11 @@ In iTunes for Mac OS X or Windows, just navigate to an iTunes Store pane where y
 
 2. Click your (old) e-mail address in the top.
 
-    ![Click e-mail](icloud/screenshots/3-itunes-ios/1-info.png)
+    ![Click e-mail](screenshots/3-itunes-ios/1-info.png)
 
 3. Sign out.
 
-    ![Sign out](icloud/screenshots/3-itunes-ios/2-signout.png)
+    ![Sign out](screenshots/3-itunes-ios/2-signout.png)
 
 4. Sign in with your new e-mail address.
 
@@ -54,22 +54,22 @@ In iTunes for Mac OS X or Windows, just navigate to an iTunes Store pane where y
 
 2. At the very bottom, click the big, fat, red "Delete Account" button. (Don't worry, you'll get a prompt afterwards.)
 
-    ![Delete](icloud/screenshots/4-icloud/1-delete.png)
+    ![Delete](screenshots/4-icloud/1-delete.png)
 
 3. How about we just keep the data.
 
-    ![Keep data](icloud/screenshots/4-icloud/2-delete-prompt.png)
+    ![Keep data](screenshots/4-icloud/2-delete-prompt.png)
 
 4. After iOS finishes the job, log back in with your new e-mail.
 
 5. Choose Merge (because why not).
 
-    ![Merge](icloud/screenshots/4-icloud/3-merge.png)
+    ![Merge](screenshots/4-icloud/3-merge.png)
 
 6. You'd think you were done, BUT, for some reason, when you go through this process, the iCloud Backup option is turned off at the end of this operation.
 
     If you want to back up directly to iCloud from the device, be sure to (re-)enable it under Storage & Backup under the iCloud section.
 
-    ![Back up](icloud/screenshots/4-icloud/4-backup.png)
+    ![Back up](screenshots/4-icloud/4-backup.png)
 
 "It just works." (There's definitely room for improvement in this process.)
