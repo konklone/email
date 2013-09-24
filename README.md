@@ -5,3 +5,5 @@ Originally collected as an accompaniment for [@konklone](/konklone)'s guide to [
 ### Articles
 
 * [Update Your Email Address in Apple and iCloud](icloud#update-your-email-address-in-apple-and-icloud)
+
+* [Add MX Forwarding Records to your Godaddy.com Hostname](godaddy#add-MX-forwarding-records-to-your-godaddy.com-hostname)
