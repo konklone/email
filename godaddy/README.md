@@ -1,11 +1,11 @@
-## Add MX Forwarding Records to your Godaddy.com Hostname
+## Add MX Forwarding Records to your GoDaddy.com Hostname
 
-Instructions for adding MX forwarding records to your godaddy.com hostname.
+Instructions for adding MX forwarding records to your GoDaddy.com hostname.
 
 Originally written by [@bchartoff](/bchartoff), as an accompaniment for [@konklone](/konklone)'s guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
 
 
-1. Go to the godaddy account manager page at <http://mya.godaddy.com>, and log in to your account.
+1. Go to the GoDaddy account manager page at <http://mya.godaddy.com>, and log in to your account.
 
 2. To the right of 'Domains', click 'Launch'.
 
@@ -38,11 +38,9 @@ Originally written by [@bchartoff](/bchartoff), as an accompaniment for [@konklo
 9. Delete your old MX records by clicking the red X icons to the right of their names.
 
 	![delete](./screenshots/delete_old_mx.png)
-	
+
 10. Click the 'Save Zone File' button.
 
 	![save](./screenshots/save_zone_file.png)
-	
+
 11. Click 'OK' twice, log out, and you're done!
-
-
