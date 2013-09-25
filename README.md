@@ -6,4 +6,4 @@ Originally collected as an accompaniment for [@konklone](/konklone)'s guide to [
 
 * [Update Your Email Address in Apple and iCloud](icloud#update-your-email-address-in-apple-and-icloud)
 
-* [Setting up Email Forwarding in GoDaddy](godaddy#add-MX-forwarding-records-to-your-godaddy.com-hostname)
+* [Setting up Email Forwarding in GoDaddy](godaddy#setting-up-email-forwarding-in-godaddy)
