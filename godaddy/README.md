@@ -1,6 +1,6 @@
-## Add MX Forwarding Records to your GoDaddy.com Hostname
+## Setting up Email Forwarding in GoDaddy
 
-Instructions for adding MX forwarding records to your GoDaddy.com hostname.
+Instructions for setting up email forwarding, by adding MX forwarding records to your domain name you registered with GoDaddy.
 
 Originally written by [@bchartoff](/bchartoff), as an accompaniment for [@konklone](/konklone)'s guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
 
