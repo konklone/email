@@ -11,4 +11,4 @@ Originally written by [Michael Weinberg](https://twitter.com/mweinbergPK) from [
 
 2. Then, scroll down to Mail Settings, choose "User (Mail Server's Host Name Required)", and fill in the three MX records for Pobox in the form below. Each line needs "@" for the Host Name. Each Pobox MX record domain goes in the Mailserver Host Name field.
 
-    ![MX Records](./screenshots/mx_records.png)
+    ![MX Records](./screenshots/mx-records.png)
