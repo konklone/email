@@ -2,7 +2,7 @@
 
 Instructions for setting up email forwarding, by adding MX forwarding records to your domain name you registered with GoDaddy.
 
-Originally written by [@bchartoff](/bchartoff), as an accompaniment for [@konklone](/konklone)'s guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
+Originally written by [@bchartoff](https://github.com/bchartoff), as an accompaniment for [@konklone](/konklone)'s guide to [Taking Control of your Email Address](https://konklone.com/post/take-control-of-your-email-address).
 
 
 1. Go to the GoDaddy account manager page at <http://mya.godaddy.com>, and log in to your account.
