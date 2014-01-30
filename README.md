@@ -11,6 +11,6 @@ Originally collected as an accompaniment for [@konklone](/konklone)'s guide to [
 * [Setting up Email Forwarding in Namecheap](namecheap#setting-up-email-forwarding-in-namecheap)
 
 
-### CC-BY License
+### Creative Commons Attribution License
 
-Licensed under [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/). Full legal code [here](http://creativecommons.org/licenses/by/4.0/legalcode).
+Licensed under [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/), requiring attribution only.
